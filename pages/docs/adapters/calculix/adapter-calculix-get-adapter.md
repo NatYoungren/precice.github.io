@@ -9,7 +9,7 @@ After [installing preCICE](installation-overview.html) and [getting the CalculiX
 
 ## Building the adapted CalculiX
 
-1. Download and unzip the adapter (e.g. in the `CaluliX` folder):
+1. Download and unzip the adapter (e.g. in the `CalculiX` folder):
 
     ```bash
     wget https://github.com/precice/calculix-adapter/archive/master.zip 
